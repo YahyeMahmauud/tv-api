@@ -56,6 +56,9 @@
 
 .movies-section {
   display: flex;
+  /* justify-content: center;
+  align-items: center; */
+  flex-wrap: wrap;
   margin: 15px 50px;
 }
 
